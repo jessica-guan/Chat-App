@@ -1,6 +1,6 @@
-# chat_app
+# Chat App
 
-A new Flutter project.
+UI prototype of a messaging application that conducts authentication using Metamask.
 
 ## Getting Started
 
